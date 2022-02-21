@@ -7,6 +7,14 @@
     {
       "text": "Posts",
       "url": "/posts/"
+    },
+    {
+      "text": "About",
+      "url": "/about/"
+    },
+    {
+      "text": "Contact",
+      "url": "/contact/"
     }
   ]
 }
